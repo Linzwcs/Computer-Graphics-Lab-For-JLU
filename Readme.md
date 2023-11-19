@@ -31,7 +31,7 @@ Secondly， you'll need a tool to run the `ipynb` file, such as jupyter notebook
 6.  **Fill Polygon with Color**
 7.  **Fill Circle with Color**
 8.  **Translation Transformation**
-9.  **Rotation Transformation**
+9.  **Rotation And Scale Transformation**
 
 ### Graphics 3D
 
@@ -48,6 +48,30 @@ Additional instructions can be found in the `lab.ipynb` file.
 ## Examples
 
 ### Graphics 2D
+
+#### straight line and Bézier Curve （exercise 1-2）
+
+![](./example/open_shape.png)
+
+#### circle and polygon （exercise 3-7）
+
+![](./example/close_shape.png)
+
+### translation transformation （exercise 8）
+
+![](./example/translation_down.png)
+
+![](./example/translation_left.png)
+
+![](./example/translation_right.png)
+
+![](./example/translation_up.png)
+
+### rotation and scale transformation （exercise 9）
+
+![](./example/translation_rotation.png)
+
+![](./example/translation_scale.png)
 
 ### Graphics 3D
 
