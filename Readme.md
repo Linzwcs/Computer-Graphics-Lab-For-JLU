@@ -6,6 +6,19 @@ The framework comprises 14 concise exercises, guiding you through the process of
 
 If you have any advice, please feel free to contact me. Let's work together to make the Computer Graphics more engaging and accessible.
 
+## Environment
+
+You should make sure your python environment has been set up firstly, and I suggest you using conda to create a pure python virtual environment. Then, you need to install denpendencies for our lab. `numpy` and `matplotlib` is all you need.
+For example:
+
+```
+conda create -n graphics_lab python=3.10
+conda activate graphics_lab
+pip install numpy matplotlib
+```
+
+Secondly， you'll need a tool to run the `ipynb` file, such as jupyter notebook, vscode etc.
+
 ## Lab Contents
 
 ### Graphics 2D
@@ -45,9 +58,11 @@ Additional instructions can be found in the `lab.ipynb` file.
 #### Blinn-Phong Lighting(exercise 13)
 
 ![](./example/phong_white.png)
+
 ![](./example/phong.png)
 
 #### Texture (exercise 13)
 
 ![](./example/texture.png)
+
 ![](./example/desk.png)
