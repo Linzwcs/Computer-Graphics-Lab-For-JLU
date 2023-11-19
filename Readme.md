@@ -36,7 +36,7 @@ Additional instructions can be found in the `lab.ipynb` file.
 
 ### Graphics 2D
 
-### Graphics 3
+### Graphics 3D
 
 #### Rasterize (exercise 12)
 
