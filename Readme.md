@@ -2,7 +2,7 @@
 
 I have developed this experiment framework for update the labs of the Computer Graphics course, offered at Jilin University.
 
-The framework comprises 13 concise exercises, guiding you through the process of creating 2D graphics and rendering 3D objects on your personal computer screen from scratch.
+The framework comprises 14 concise exercises, guiding you through the process of creating 2D graphics and rendering 3D objects on your personal computer screen from scratch.
 
 If you have any advice, please feel free to contact me. Let's work together to make the Computer Graphics more engaging and accessible.
 
